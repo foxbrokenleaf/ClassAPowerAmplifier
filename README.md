@@ -1,0 +1,2 @@
+# ClassAPowerAmplifier
+如题
